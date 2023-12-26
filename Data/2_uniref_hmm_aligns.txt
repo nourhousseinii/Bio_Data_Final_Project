@@ -1,0 +1,149 @@
+# STOCKHOLM 1.0
+#=GF ID 1_uniref_clustal_edited
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS sp|Q6AYF4|ITB6_RAT/129-317    DE [subseq from] Integrin beta-6 OS=Rattus norvegicus OX=10116 GN=Itgb6 PE=2 SV=1
+#=GS sp|Q9Z0T9|ITB6_MOUSE/129-317  DE [subseq from] Integrin beta-6 OS=Mus musculus OX=10090 GN=Itgb6 PE=1 SV=1
+#=GS sp|P18564|ITB6_HUMAN/129-317  DE [subseq from] Integrin beta-6 OS=Homo sapiens OX=9606 GN=ITGB6 PE=1 SV=2
+#=GS sp|P80747|ITB5_BOVIN/134-323  DE [subseq from] Integrin beta-5 OS=Bos taurus OX=9913 GN=ITGB5 PE=1 SV=2
+#=GS sp|O70309|ITB5_MOUSE/134-323  DE [subseq from] Integrin beta-5 OS=Mus musculus OX=10090 GN=Itgb5 PE=1 SV=2
+#=GS sp|P05106|ITB3_HUMAN/134-322  DE [subseq from] Integrin beta-3 OS=Homo sapiens OX=9606 GN=ITGB3 PE=1 SV=2
+#=GS sp|P18563|ITB6_CAVPO/129-317  DE [subseq from] Integrin beta-6 OS=Cavia porcellus OX=10141 GN=ITGB6 PE=2 SV=2
+#=GS sp|P18084|ITB5_HUMAN/134-323  DE [subseq from] Integrin beta-5 OS=Homo sapiens OX=9606 GN=ITGB5 PE=1 SV=1
+#=GS sp|Q1RPR6|ITB6_PIG/129-317    DE [subseq from] Integrin beta-6 OS=Sus scrofa OX=9823 GN=ITGB6 PE=2 SV=1
+#=GS sp|Q863C4|ITB6_SHEEP/129-317  DE [subseq from] Integrin beta-6 OS=Ovis aries OX=9940 GN=ITGB6 PE=2 SV=1
+#=GS sp|Q8SQB8|ITB6_BOVIN/129-317  DE [subseq from] Integrin beta-6 OS=Bos taurus OX=9913 GN=ITGB6 PE=1 SV=1
+#=GS sp|O54890|ITB3_MOUSE/133-321  DE [subseq from] Integrin beta-3 OS=Mus musculus OX=10090 GN=Itgb3 PE=1 SV=2
+#=GS sp|P07228|ITB1_CHICK/142-327  DE [subseq from] Integrin beta-1 OS=Gallus gallus OX=9031 GN=ITGB1 PE=1 SV=1
+#=GS sp|Q8R2H2|ITB3_RAT/133-321    DE [subseq from] Integrin beta-3 OS=Rattus norvegicus OX=10116 GN=Itgb3 PE=1 SV=1
+#=GS sp|P05556|ITB1_HUMAN/138-323  DE [subseq from] Integrin beta-1 OS=Homo sapiens OX=9606 GN=ITGB1 PE=1 SV=2
+#=GS sp|P09055|ITB1_MOUSE/138-323  DE [subseq from] Integrin beta-1 OS=Mus musculus OX=10090 GN=Itgb1 PE=1 SV=1
+#=GS sp|P49134|ITB1_RAT/138-323    DE [subseq from] Integrin beta-1 OS=Rattus norvegicus OX=10116 GN=Itgb1 PE=2 SV=1
+#=GS sp|B0FYY4|ITB1_SHEEP/138-323  DE [subseq from] Integrin beta-1 OS=Ovis aries OX=9940 GN=ITGB1 PE=2 SV=1
+#=GS sp|P53712|ITB1_BOVIN/138-323  DE [subseq from] Integrin beta-1 OS=Bos taurus OX=9913 GN=ITGB1 PE=1 SV=3
+#=GS sp|P53713|ITB1_FELCA/138-323  DE [subseq from] Integrin beta-1 OS=Felis catus OX=9685 GN=ITGB1 PE=2 SV=1
+#=GS sp|A5Z1X6|ITB1_CAMBA/138-323  DE [subseq from] Integrin beta-1 OS=Camelus bactrianus OX=9837 GN=ITGB1 PE=2 SV=1
+#=GS sp|P12606|ITB1A_XENLA/137-322 DE [subseq from] Integrin beta-1-A OS=Xenopus laevis OX=8355 GN=itgb1-a PE=2 SV=1
+#=GS sp|Q9GLP0|ITB1_PIG/138-323    DE [subseq from] Integrin beta-1 OS=Sus scrofa OX=9823 GN=ITGB1 PE=2 SV=1
+#=GS sp|P12607|ITB1B_XENLA/137-322 DE [subseq from] Integrin beta-1-B OS=Xenopus laevis OX=8355 GN=itgb1-b PE=2 SV=1
+#=GS sp|P26010|ITB7_HUMAN/147-334  DE [subseq from] Integrin beta-7 OS=Homo sapiens OX=9606 GN=ITGB7 PE=1 SV=1
+#=GS sp|Q5RCA9|ITB1_PONAB/138-323  DE [subseq from] Integrin beta-1 OS=Pongo abelii OX=9601 GN=ITGB1 PE=2 SV=1
+#=GS sp|P26011|ITB7_MOUSE/148-334  DE [subseq from] Integrin beta-7 OS=Mus musculus OX=10090 GN=Itgb7 PE=1 SV=2
+#=GS sp|Q5VI41|ITB2_CAPHI/123-308  DE [subseq from] Integrin beta-2 OS=Capra hircus OX=9925 GN=ITGB2 PE=2 SV=1
+#=GS sp|P11835|ITB2_MOUSE/124-309  DE [subseq from] Integrin beta-2 OS=Mus musculus OX=10090 GN=Itgb2 PE=1 SV=2
+#=GS sp|Q6ECI6|ITB2_SHEEP/123-308  DE [subseq from] Integrin beta-2 OS=Ovis aries OX=9940 GN=ITGB2 PE=2 SV=1
+#=GS sp|Q2VJ42|ITB2_OVICA/123-308  DE [subseq from] Integrin beta-2 OS=Ovis canadensis OX=37174 GN=ITGB2 PE=2 SV=1
+#=GS sp|P05107|ITB2_HUMAN/123-308  DE [subseq from] Integrin beta-2 OS=Homo sapiens OX=9606 GN=ITGB2 PE=1 SV=2
+#=GS sp|P53714|ITB2_PIG/123-308    DE [subseq from] Integrin beta-2 OS=Sus scrofa OX=9823 GN=ITGB2 PE=2 SV=1
+#=GS sp|P32592|ITB2_BOVIN/123-308  DE [subseq from] Integrin beta-2 OS=Bos taurus OX=9913 GN=ITGB2 PE=1 SV=1
+#=GS sp|P11584|ITBX_DROME/180-364  DE [subseq from] Integrin beta-PS OS=Drosophila melanogaster OX=7227 GN=mys PE=1 SV=3
+#=GS sp|Q07441|ITB5_PAPCY/1-179    DE [subseq from] Integrin beta-5 (Fragment) OS=Papio cynocephalus OX=9556 GN=ITGB5 PE=2 SV=1
+#=GS sp|Q27874|PAT3_CAEEL/149-332  DE [subseq from] Integrin beta pat-3 OS=Caenorhabditis elegans OX=6239 GN=pat-3 PE=1 SV=1
+#=GS sp|Q0VBD0|ITB8_MOUSE/143-329  DE [subseq from] Integrin beta-8 OS=Mus musculus OX=10090 GN=Itgb8 PE=1 SV=1
+#=GS sp|P26012|ITB8_HUMAN/143-329  DE [subseq from] Integrin beta-8 OS=Homo sapiens OX=9606 GN=ITGB8 PE=1 SV=1
+#=GS sp|P26013|ITB8_RABIT/143-329  DE [subseq from] Integrin beta-8 OS=Oryctolagus cuniculus OX=9986 GN=ITGB8 PE=2 SV=1
+#=GS sp|Q27591|ITBN_DROME/131-315  DE [subseq from] Integrin beta-nu OS=Drosophila melanogaster OX=7227 GN=Itgbn PE=1 SV=2
+#=GS sp|A2A863|ITB4_MOUSE/129-312  DE [subseq from] Integrin beta-4 OS=Mus musculus OX=10090 GN=Itgb4 PE=1 SV=1
+#=GS sp|Q64632|ITB4_RAT/128-311    DE [subseq from] Integrin beta-4 OS=Rattus norvegicus OX=10116 GN=Itgb4 PE=1 SV=1
+#=GS sp|P16144|ITB4_HUMAN/128-311  DE [subseq from] Integrin beta-4 OS=Homo sapiens OX=9606 GN=ITGB4 PE=1 SV=5
+#=GS sp|Q3UV74|ITB2L_MOUSE/123-173 DE [subseq from] Integrin beta-2-like protein OS=Mus musculus OX=10090 GN=Itgb2l PE=1 SV=1
+#=GS sp|Q3UV74|ITB2L_MOUSE/175-280 DE [subseq from] Integrin beta-2-like protein OS=Mus musculus OX=10090 GN=Itgb2l PE=1 SV=1
+#=GS sp|Q09062|ITB2_XENLA/2-76     DE [subseq from] Integrin beta-2 (Fragment) OS=Xenopus laevis OX=8355 GN=itgb2 PE=2 SV=1
+
+sp|Q6AYF4|ITB6_RAT/129-317            -EDYPVDLYYLMDLSASMDDDLNTIKELGSRLAKEMSKLTSnFRLGFGSFVEKPVSPFMKTTPeE.ITNPCSsI..pYFCLPTFGFKHILPLTDDAeRFNEIVRKQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDsLHLLVFVSDADSHFGMDS..KLAGIVIPNDGLCHLDNRNEYSMSTVLEYPTIGQLID
+#=GR sp|Q6AYF4|ITB6_RAT/129-317    PP .89*************************************88*********************55.******54..899*****************************************************************************..**********************************975
+sp|Q9Z0T9|ITB6_MOUSE/129-317          -EDYPVDLYYLMDLSASMDDDLNTIKELGSRLAKEMSKLTSnFRLGFGSFVEKPVSPFMKTTPeE.ITNPCSsI..pYFCLPTFGFKHILPLTDDAeRFNEIVRKQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDsLHLLVFVSDADSHFGMDS..KLAGIVIPNDGLCHLDHRNEYSMSTVLEYPTIGQLID
+#=GR sp|Q9Z0T9|ITB6_MOUSE/129-317  PP .89*************************************88*********************55.******54..899*****************************************************************************..**********************************975
+sp|P18564|ITB6_HUMAN/129-317          -EDYPVDLYYLMDLSASMDDDLNTIKELGSRLSKEMSKLTSnFRLGFGSFVEKPVSPFVKTTPeE.IANPCSsI..pYFCLPTFGFKHILPLTNDAeRFNEIVKNQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDsLHLLVFVSDADSHFGMDS..KLAGIVIPNDGLCHLDSKNEYSMSTVLEYPTIGQLID
+#=GR sp|P18564|ITB6_HUMAN/129-317  PP .89*************************************88*********************55.******54..899*****************************************************************************..**********************************975
+sp|P80747|ITB5_BOVIN/134-323          -EDYPVDLYYLMDLSLSMKDDLENIRSLGTKLAEEMRKLTSnFRLGFGSFVDKNISPFSYTAPrY.QTNPCIgYklfPNCVPSFGFRHLLPLTDRVdSFNEEVRKQRVSRNRDAPEGGFDAVLQAAVCKEKIGWRKDaLHLLVFTTDDVPHIALDG..KLGGLVQPHDGQCHLNEANEYTASNQMDYPSLALLG-
+#=GR sp|P80747|ITB5_BOVIN/134-323  PP .89*************************************88*********************65.9****9756889******************************************************************************..********************************9985.
+sp|O70309|ITB5_MOUSE/134-323          -EDYPVDLYYLMDLSLSMKDDLENIRSLGTKLAEEMRKLTSnFRLGFGSFVDKDISPFSYTAPrY.QTNPCIgYklfPNCVPSFGFRHLLPLTDRVdSFNEEVRKQRVSRNRDAPEGGFDAVLQAAVCKEKIGWRKDaLHLLVFTTDDVPHIALDG..KLGGLVQPHDGQCHLNEANEYTASNQMDYPSLALLG-
+#=GR sp|O70309|ITB5_MOUSE/134-323  PP .89*************************************88*********************65.9****9756889******************************************************************************..********************************9985.
+sp|P05106|ITB3_HUMAN/134-322          -EDYPVDIYYLMDLSYSMKDDLWSIQNLGTKLATQMRKLTSnLRIGFGAFVDKPVSPYMYISPpEaLENPCYdM..kTTCLPMFGYKHVLTLTDQVtRFNEEVKKQSVSRNRDAPEGGFDAIMQATVCDEKIGWRNDaSHLLVFTTDAKTHIALDG..RLAGIVQPNDGQCHVGSDNHYSASTTMDYPSLGLMT-
+#=GR sp|P05106|ITB3_HUMAN/134-322  PP .89*************************************88********************9956*****974..69*****************99***********************************************************..********************************9986.
+sp|P18563|ITB6_CAVPO/129-317          -EDYPVDLYYLMDLSASMDDDLNTIKELGSLLSKEMSKLTSnFRLGFGSFVEKPVSPFMKTTPeE.IANPCSsI..pYICLPTFGFKHILPLTNDAeRFNEIVKKQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDsLHLLVFVSDADSHFGMDS..KLAGIVIPNDGLCHLDSKNEYSMSTVMEYPTIGQLID
+#=GR sp|P18563|ITB6_CAVPO/129-317  PP .89*************************************88*********************55.******54..899*****************************************************************************..**********************************975
+sp|P18084|ITB5_HUMAN/134-323          -EDYPVDLYYLMDLSLSMKDDLDNIRSLGTKLAEEMRKLTSnFRLGFGSFVDKDISPFSYTAPrY.QTNPCIgYklfPNCVPSFGFRHLLPLTDRVdSFNEEVRKQRVSRNRDAPEGGFDAVLQAAVCKEKIGWRKDaLHLLVFTTDDVPHIALDG..KLGGLVQPHDGQCHLNEANEYTASNQMDYPSLALLG-
+#=GR sp|P18084|ITB5_HUMAN/134-323  PP .89*************************************88*********************65.9****9756889******************************************************************************..********************************9985.
+sp|Q1RPR6|ITB6_PIG/129-317            -EDYPVDLYYLMDLSASMDDDLNTIKELGSLLSKEMSKLTSnFRLGFGSFVEKPISPFMKTTPeE.IANPCSsI..pYFCLPTFGFKHILPLTNDAeRFNEIVKNQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDsLHLLVFVSDADSHFGMDS..KLAGIVIPNDGLCHLDSKNEYSMSTVLEYPTIGQLID
+#=GR sp|Q1RPR6|ITB6_PIG/129-317    PP .89*************************************88*********************55.******54..899*****************************************************************************..**********************************975
+sp|Q863C4|ITB6_SHEEP/129-317          -EDYPVDLYYLMDLSASMDDDLNTIKELGSLLSKEMSKLTSnFRLGFGSFVEKPISPFMKTTPeE.IANPCSsI..pYFCLPTFGFKHILPLTNDAeRFNEIVKNQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDsLHLLVFVSDADSHFGMDS..KLAGIVIPNDGLCHLDSKNEYSMSTILEYPTIGQLID
+#=GR sp|Q863C4|ITB6_SHEEP/129-317  PP .89*************************************88*********************55.******54..899*****************************************************************************..**********************************975
+sp|Q8SQB8|ITB6_BOVIN/129-317          -EDYPVDLYYLMDLSASMDDDLNTIKELGSLLSKEMSKLTSnFRLGFGSFVEKPISPFMKTTPeE.IANPCSsI..pYFCLPTFGFKHILPLTNDAeRFNEIVKNQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDsLHLLVFVSDADSHFGMDS..KLAGIVIPNDGLCHLDSKNEYSMSTILEYPTIGQLID
+#=GR sp|Q8SQB8|ITB6_BOVIN/129-317  PP .89*************************************88*********************55.******54..899*****************************************************************************..**********************************975
+sp|O54890|ITB3_MOUSE/133-321          -EDYPVDIYYLMDLSFSMKDDLSSIQTLGTKLASQMRKLTSnLRIGFGAFVDKPVSPYMYISPpQaIKNPCYnM..kNACLPMFGYKHVLTLTDQVsRFNEEVKKQSVSRNRDAPEGGFDAIMQATVCDEKIGWRNDaSHLLVFTTDAKTHIALDG..RLAGIVLPNDGHCHIGTDNHYSASTTMDYPSLGLMT-
+#=GR sp|O54890|ITB3_MOUSE/133-321  PP .89*************************************88********************9955*****963..699*****************************************************************************..********************************9986.
+sp|P07228|ITB1_CHICK/142-327          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTALMREMEKITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTgD...QNCTSPFSYKNVLSLTSEGnKFNELVGKQHISGNLDSPEGGFDAIMQVAVCGDQIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGKCHLE-NNMYTMSHYYDYPSIAHLV-
+#=GR sp|P07228|ITB1_CHICK/142-327  PP 589*************************************99*********************66.******88...******************88****************************************.******************..***************8.89***************97.
+sp|Q8R2H2|ITB3_RAT/133-321            -EDYPVDIYYLMDLSFSMKDDLSSIQTLGTKLASQMRKLTSnLRIGFGAFVDKPVSPYMFISPpQaIKNPCYtM..kSTCLPMFGYKHVLTLTDQVtRFNDEVKKQSVSRNRDAPEGGFDAIMQATVCDEKIGWRNDaSHLLVFTTDAKTHIALDG..RLAGIVLPNDGRCHIGPDNHYSASTTMDYPSLGLMT-
+#=GR sp|Q8R2H2|ITB3_RAT/133-321    PP .89*************************************88********************9955*****964..69*****************99***********************************************************..********************************9986.
+sp|P05556|ITB1_HUMAN/138-323          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTsE...QNCTSPFSYKNVLSLTNKGeVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLE-NNMYTMSHYYDYPSIAHLV-
+#=GR sp|P05556|ITB1_HUMAN/138-323  PP 589*************************************99*********************66.******77...******************778***************************************.******************..***************8.89***************97.
+sp|P09055|ITB1_MOUSE/138-323          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTsE...QNCTSPFSYKNVLSLTDRGeFFNELVGQQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLE-NNVYTMSHYYDYPSIAHLV-
+#=GR sp|P09055|ITB1_MOUSE/138-323  PP 589*************************************99*********************66.******77...******************7679**************************************.******************..***************8.899**************97.
+sp|P49134|ITB1_RAT/138-323            AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTsE...QNCTSPFSYKNVLSLTDRGeFFNELVGQQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLE-NNVYTMSHYYDYPSIAHLV-
+#=GR sp|P49134|ITB1_RAT/138-323    PP 589*************************************99*********************66.******77...******************7679**************************************.******************..***************8.899**************97.
+sp|B0FYY4|ITB1_SHEEP/138-323          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTnE...QNCTSPFSYKNVLSLTDKGeVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLE-NDMYTMSHYYDYPSIAHLV-
+#=GR sp|B0FYY4|ITB1_SHEEP/138-323  PP 589*************************************99*********************66.******66...******************778***************************************.******************..***************8.789999***********97.
+sp|P53712|ITB1_BOVIN/138-323          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTnE...QNCTSPFSYKNVLSLTDKGeVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLE-NDVYTMSHYYDYPSIAHLV-
+#=GR sp|P53712|ITB1_BOVIN/138-323  PP 589*************************************99*********************66.******66...******************778***************************************.******************..***************8.789999***********97.
+sp|P53713|ITB1_FELCA/138-323          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLLNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTsE...QNCTSPFSYKNVLSLTDKGeVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLE-NDVYTMSHYYDYPSIAHLV-
+#=GR sp|P53713|ITB1_FELCA/138-323  PP 589*************************************99*********************66.******77...******************778***************************************.******************..***************8.789999***********97.
+sp|A5Z1X6|ITB1_CAMBA/138-323          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTnE...QNCTSPFSYKNVLSLTDKGeVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLK-NDVYTMSHYYDYPSIAHLV-
+#=GR sp|A5Z1X6|ITB1_CAMBA/138-323  PP 589*************************************99*********************66.******66...******************778***************************************.******************..***************6.789999***********97.
+sp|P12606|ITB1A_XENLA/137-322         AEDYPIDLYYLMDLSFSMKDDLENVKSLGTALMTEMEKITSdFRIGFGSFVEKTVMPYISTTPaK.LINPCTsD...QNCTSPFSYKNVLNLTKDGkLFNDLVGKQQISGNLDSPEGGFDAIMQVAVCGEQIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGKCHLH-ENMYTMSHYYDYPSIAHLV-
+#=GR sp|P12606|ITB1A_XENLA/137-322 PP 589*************************************99*********************66.9*****66...******************778***************************************.******************..***************7.89***************97.
+sp|Q9GLP0|ITB1_PIG/138-323            AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPaK.LRNPCTsE...QNCTSPFSYKNVLSLTDKGeVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGHCHLE-NDVYTMSHYYDYPSIAHLV-
+#=GR sp|Q9GLP0|ITB1_PIG/138-323    PP 589*************************************99*********************66.******77...******************778***************************************.******************..***************8.789999***********97.
+sp|P12607|ITB1B_XENLA/137-322         AEDYPIDLYYLMDLSFSMKDDLENVKSLGTALMTEMEKITSdFRIGFGSFVEKTVMPYISTTPaK.LLNPCTnD...QNCTSPFSYKNVLNLTKDGkLFNDLVGKQQISGNLDSPEGGFDAIMQVAVCGEQIGWRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGRCHLH-GNMYTMSHYYDYPSIAHLV-
+#=GR sp|P12607|ITB1B_XENLA/137-322 PP 589*************************************99*********************66.9*****55...******************778***************************************.******************..***************7.899**************97.
+sp|P26010|ITB7_HUMAN/147-334          AEGYPVDLYYLMDLSYSMKDDLERVRQLGHALLVRLQEVTHsVRIGFGSFVDKTVLPFVSTVPsK.LRHPCPtR..lERCQSPFSFHHVLSLTGDAqAFEREVGRQSVSGNLDSPEGGFDAILQAALCQEQIGWRNV.SRLLVFTSDDTFHTAGDG..KLGGIFMPSDGHCHLDSNGLYSRSTEFDYPSVGQVA-
+#=GR sp|P26010|ITB7_HUMAN/147-334  PP 589*************************************77*********************66.******76..9******************99****************************************.******************..**********************************97.
+sp|Q5RCA9|ITB1_PONAB/138-323          AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSdFRIGFGSFVEKTVMPYISTTPvK.LRNPCTsE...QNCTSPFSYKNVLSLTNKGeVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGRRNV.TRLLVFSTDAGFHFAGDG..KLGGIVLPNDGQCHLE-NNMYTMSHYYDYPSIAHLV-
+#=GR sp|Q5RCA9|ITB1_PONAB/138-323  PP 589*************************************99*********************77.******77...******************778***************************************.******************..***************8.89***************97.
+sp|P26011|ITB7_MOUSE/148-334          -AGYPVDLYYLMDLSYSMKDDLERVRQLGHALLVRLQEVTHsVRIGFGSFVDKTVLPFVSTVPsK.LHHPCPsR..lERCQPPFSFHHVLSLTGDAqAFEREVGRQNVSGNLDSPEGGFDAILQAALCQEQIGWRNV.SRLLVFTSDDTFHTAGDG..KLGGIFMPSDGRCHLDSNGVYTNSAEFDYPSVGQVA-
+#=GR sp|P26011|ITB7_MOUSE/148-334  PP .58*************************************77*********************66.******76..9******************99****************************************.******************..**********************************97.
+sp|Q5VI41|ITB2_CAPHI/123-308          -KGYPIDLYYLMDLSYSMVDDLANVKKLGGDLLRALNDITEsGRIGFGSFVDKTVLPFVNTHP.EkLRNPCPnK..eKQCQPPFAFRHVLKLTDNSkQFETEVGKQLISGNLDAPEGGLDAMMQVAACPEEIGWRNV.TRLLVFATDDGFHFAGDG..KLGAILTPNDGRCHLE-DNLYKSSNEFDYPSVGQLA-
+#=GR sp|Q5VI41|ITB2_CAPHI/123-308  PP .79*************************************879********************.55*****964..79*****************99****************************************.******************..***************8.799999***********97.
+sp|P11835|ITB2_MOUSE/124-309          -KGYPIDLYYLMDLSYSMLDDLNNVKKLGGDLLQALNEITEsGRIGFGSFVDKTVLPFVNTHP.EkLRNPCPnK..eKACQPPFAFRHVLKLTDNSnQFQTEVGKQLISGNLDAPEGGLDAIMQVAACPEEIGWRNV.TRLLVFATDDGFHFAGDG..KLGAILTPNDGRCHLE-DNMYKRSNEFDYPSVGQLA-
+#=GR sp|P11835|ITB2_MOUSE/124-309  PP .79*************************************879********************.55*****964..799****************99****************************************.******************..***************8.799999***********97.
+sp|Q6ECI6|ITB2_SHEEP/123-308          -KGYPIDLYYLMDLSYSMVDDLANVKKLGGDLLRALNDITEsGRIGFGSFVDKTVLPFVNTHP.EkLRNPCPnK..eKECQPPFAFRHVLKLTDNSkQFETEVGKQLISGNLDAPEGGLDAMMQVAACPEEIGWRNV.TRLLVFATDDGFHFAGDG..KLGAILTPNDGRCHLE-DNLYKSSNEFDYPSVGQLA-
+#=GR sp|Q6ECI6|ITB2_SHEEP/123-308  PP .79*************************************879********************.55*****964..79*****************99****************************************.******************..***************8.799999***********97.
+sp|Q2VJ42|ITB2_OVICA/123-308          -KGYPIDLYYLMDLSYSMVDDLANVKKLGGDLLRALNDITEsGRIGFGSFVDKTVLPFVNTHP.EkLRNPCPnK..eKECQPPFAFRHVLKLTDNSkQFETEVGKQLISGNLDAPEGGLDAMMQVAACPEEIGWRNV.TRLLVFATDDGFHFAGDG..KLGAILTPNDGRCHLE-DNLYKSSNEFDYPSVGQLA-
+#=GR sp|Q2VJ42|ITB2_OVICA/123-308  PP .79*************************************879********************.55*****964..79*****************99****************************************.******************..***************8.799999***********97.
+sp|P05107|ITB2_HUMAN/123-308          -KGYPIDLYYLMDLSYSMLDDLRNVKKLGGDLLRALNEITEsGRIGFGSFVDKTVLPFVNTHPdK.LRNPCPnK..eKECQPPFAFRHVLKLTNNSnQFQTEVGKQLISGNLDAPEGGLDAMMQVAACPEEIGWRNV.TRLLVFATDDGFHFAGDG..KLGAILTPNDGRCHLE-DNLYKRSNEFDYPSVGQLA-
+#=GR sp|P05107|ITB2_HUMAN/123-308  PP .79*************************************879********************66.*****964..79*****************99****************************************.******************..***************8.799**************97.
+sp|P53714|ITB2_PIG/123-308            -KGYPIDLYYLMDLSYSMLDDLINVKKLGGDLLRALNEITEsGRIGFGSFVDKTVLPFVNTHP.EkLRNPCPnK..eKECQAPFAFRHVLKLTDNSnQFQTEVGKQLISGNLDAPEGGLDAMMQVAACPEEIGWRNV.TRLLVFATDDGFHFAGDG..KLGAILTPNDGRCHLE-DNLYKSSNEFDYPSVGQLA-
+#=GR sp|P53714|ITB2_PIG/123-308    PP .79*************************************879********************.55*****964..79*****************99****************************************.******************..***************8.799999***********97.
+sp|P32592|ITB2_BOVIN/123-308          -KGYPIDLYYLMDLSYSMVDDLVNVKKLGGDLLRALNGITEsGRIGFGSFVDKTVLPFVNTHP.EkLRNPCPnK..eKECQPPFAFRHVLKLTDNSkQFETEVGKQLISGNLDAPEGGLDAMMQVAACPEEIGWRNV.TRLLVFATDDGFHFAGDG..KLGAILTPNDGRCHLE-DNLYKSSNEFDYPSVGQLA-
+#=GR sp|P32592|ITB2_BOVIN/123-308  PP .79*************************************879********************.55*****964..79*****************99****************************************.******************..***************8.799999***********97.
+sp|P11584|ITBX_DROME/180-364          AEGYPVDLYYLMDLSKSMEDDKAKLSTLGDKLSETMKRITNnFHLGFGSFVDKVLMPYVSTIPkK.LEHPC-.-...ENCKAPYGYQNHMPLNNNTeSFSNEVKNATVSGNLDAPEGGFDAIMQAIACRSQIGWREQaRRLLVFSTDAGFHYAGDG..KLGGVIAPNDGECHLSPKGEYTHSTLQDYPSISQIN-
+#=GR sp|P11584|ITBX_DROME/180-364  PP 589*************************************88*********************55.*****......89*****************9***********************************************************..**********************************97.
+sp|Q07441|ITB5_PAPCY/1-179            ------------DLSLSMKDDLDTIRNLGTKLAEEMRKLTSnFRLGFGSFVDKDISPFSYTAPrY.QTNPCIgYklfPNCVPSFGFRHLLPLTDRVdSFNEEVRKQRVSRNRDAPEGCFDAVLQAAVCKEKIGWRKDaLHLLVFTTDDVPHIALDG..KLGGLVQPHDGQCHLNEANEYTASNQMDYPSLALLG-
+#=GR sp|Q07441|ITB5_PAPCY/1-179    PP ............9***************************88*********************65.9****9756889******************************************************************************..********************************9985.
+sp|Q27874|PAT3_CAEEL/149-332          --DYPVDLYYLMDLSYSMKDDKQKLSELGDLLAERMRTVTKnFRLGFGSFIDKKLMPFIDPRI.EkQLSPC-.P...TPCAEPYGFKHQMSLTTNTaKFKAEVDKAEISGNLDAPEGGFDAVVQALACNKTIGWRERaRKMIVFSTDAGFHFAGDG..RLAGVVEPNDGTCHLDREGYYTETLNQDYPSIALLH-
+#=GR sp|Q27874|PAT3_CAEEL/149-332  PP ..8*************************************88*****************9888.5478999..5...89****************88***********************************************************..********************************9986.
+sp|Q0VBD0|ITB8_MOUSE/143-329          -KKYPVDLYYLVDVSASMHNNIEKLNSVGNDLSKKMALYSRdFRLGFGSYVDKTVSPYISIHP.ErIHNQCSdY..nLDCMPPHGYIHVLSLTENItEFEKAVHRQKISGNIDTPEGGFDAMLQAAVCESHIGWRKEaKRLLLVMTDQTSHLALDS..KLAGIVVPNDGNCHLK-NNVYVKSTTMEHPSLGQLS-
+#=GR sp|Q0VBD0|ITB8_MOUSE/143-329  PP .68*********************************855549*********************.6699***974..699****************99***********************************************************..***************6.899999***********97.
+sp|P26012|ITB8_HUMAN/143-329          -KKYPVDLYYLVDVSASMHNNIEKLNSVGNDLSRKMAFFSRdFRLGFGSYVDKTVSPYISIHP.ErIHNQCSdY..nLDCMPPHGYIHVLSLTENItEFEKAVHRQKISGNIDTPEGGFDAMLQAAVCESHIGWRKEaKRLLLVMTDQTSHLALDS..KLAGIVVPNDGNCHLK-NNVYVKSTTMEHPSLGQLS-
+#=GR sp|P26012|ITB8_HUMAN/143-329  PP .68*********************************988878*********************.6699***974..699****************99***********************************************************..***************6.899999***********97.
+sp|P26013|ITB8_RABIT/143-329          -KKYPVDLYYLVDVSASMHNNIEKLNSVGNDLSRKMAFFSRdFRLGFGSYVDKTVSPYISIHP.ErIHNQCSdY..nLDCMPPHGYIHVLSLTENItEFERAVHRQKISGNIDTPEGGFDAMLQAAVCESHIGWRKEaKRLLLVMTDQTSHLALDS..KLAGIVVPNDGNCHLR-NNVYVKSTTMEHPSLGQLS-
+#=GR sp|P26013|ITB8_RABIT/143-329  PP .68*********************************988878*********************.6699***974..699****************99***********************************************************..***************6.899999***********97.
+sp|Q27591|ITBN_DROME/131-315          -RNNPLDLYVLMDLTWTMRDDKKTLEELGAQLSQTLKNLTGnYRLGFGSFADKPTLPMILPQ-.H.RENPCAaE..rATCEPTYGYRHQLSLTDDIpAFTSAVANSKITGNLDNLEGGLDALMQVIVCTKEIGWKEQaRKVVILVTDGFMHLAGDG..LLAGIIQRNDKQCHLNKAGEYTGSLNYDYPSLEEI--
+#=GR sp|Q27591|ITBN_DROME/131-315  PP .678************************************76***************77443..5.79***975..69******************************************************************************..*******************************9876..
+sp|A2A863|ITB4_MOUSE/129-312          ---SPVDLYILMDFSNSMSDDLDNLKQMGQNLAKILRQLTSdYTIGFGKFVDKVSVPQTDMRP.EkLKEPW-.-...PNSDPPFSFKNVISLTENVeEFWNKLQGERISGNLDAPEGGFDAILQTAVCTRDIGWRADsTHLLVFSTESAFHYEADGanVLAGIMNRNDEKCHLDASGAYTQYKTQDYPSVPTLV-
+#=GR sp|A2A863|ITB4_MOUSE/129-312  PP ...79***********************************999********************.5599999......7899***********************************************************************99996669*****************************98875.
+sp|Q64632|ITB4_RAT/128-311            ---SPVDLYILMDFSNSMSDDLDNLKQMGQNLAKILRQLTSdYTIGFGKFVDKVSVPQTDMRP.EkLKEPW-.-...PNSDPPFSFKNVISLTENVeEFWDKLQGERISGNLDAPEGGFDAILQTAVCTRDIGWRADsTHLLVFSTESAFHYEADGanVLAGIMNRNDEKCHLDATGAYTQYKTQDYPSVPTLV-
+#=GR sp|Q64632|ITB4_RAT/128-311    PP ...79***********************************999********************.5599999......7899***********************************************************************99996669***************99************98875.
+sp|P16144|ITB4_HUMAN/128-311          ---SPVDLYILMDFSNSMSDDLDNLKKMGQNLARVLSQLTSdYTIGFGKFVDKVSVPQTDMRP.EkLKEPW-.-...PNSDPPFSFKNVISLTEDVdEFRNKLQGERISGNLDAPEGGFDAILQTAVCTRDIGWRPDsTHLLVFSTESAFHYEADGanVLAGIMSRNDERCHLDTTGTYTQYRTQDYPSVPTLV-
+#=GR sp|P16144|ITB4_HUMAN/128-311  PP ...79***********************************999********************.5599999......7899***********************************************************************99996669*****************************98875.
+sp|Q3UV74|ITB2L_MOUSE/123-173         -QDNSVDLYFLMGLSGSAQGHLSNVQTLGSDLLKALNEISRsGRIGFGSIVN-----------.-.------.-...-------------------.----------------------------------------.------------------..-------------------------------------
+#=GR sp|Q3UV74|ITB2L_MOUSE/123-173 PP .6889**********************************9779******996...............................................................................................................................................
+sp|Q3UV74|ITB2L_MOUSE/175-280         -----------------------------------------.---------------------.-.------.-...-------TFQHILKLTADSsQFQRELRKQLVSGKLATPKGQLDAVVQVAICLGEIGWRNG.TRFLVLVTDNDFHLAKDK..TLGTRQNTSDGRCHLD-DGMYRSRGEPDYQSVVQLA-
+#=GR sp|Q3UV74|ITB2L_MOUSE/175-280 PP ....................................................................................79*********99****************************************.******************..**9999*********9.799998999******9996.
+sp|Q09062|ITB2_XENLA/2-76             -----------------------------------LNGITKsAQIGFGSFVDKTVLPFVNTHP.EkLKNPCPeK..nENCQPPFSFKHILNLTANGkEFQDQVGKQGISGNLD------------------------.------------------..-------------------------------------
+#=GR sp|Q09062|ITB2_XENLA/2-76     PP ...................................56788779********************.55*****964..79*****************88***************9..................................................................................
+#=GC PP_cons                          589*************************************8.*********************.5.******.5...9*****************9.9***************************************.******************..***************9*99***************975
+#=GC RF                               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx.x.xxxxxx.x...xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//
